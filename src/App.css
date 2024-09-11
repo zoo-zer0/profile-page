@@ -72,7 +72,7 @@ header {
     font-size: 50px;
     font-weight: 4000;
     color: #79a675;
-    letter-spacing: -0.25rem;
+    letter-spacing: 0rem;
     text-decoration: none;
 }
 .intro_title:hover{
